@@ -6,15 +6,4 @@ Trying to check if we can detect if newly created contract are ERC20 using bytec
 
 - Copy the repo : `git clone https://github.com/Zwakx/checkERC20.git`
 - Install packages : `npm i`
-- Create a `.env` file
-- Type the following in the `.env` and use your entrypoint for the Avax Mainet (testnet is optionnal)
-
-```bash
-
-CHAIN_ID = 43114
-AVAX_WSS_MAINNET = <wss://<PATH_TO_NODE>>
-AVAX_WSS_TESTNET = <wss://<PATH_TO_NODE>>
-
-```
-
 - To run the code, type : `ts-node index.ts`
