@@ -1,0 +1,23 @@
+{
+  "name": "checkerc20",
+  "version": "1.0.0",
+  "description": "Trying to check if we can infer that a contract is ERC20 compatible from its bytecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.5",
+    "@types/web3": "^1.2.2",
+    "abi-decoder": "^2.4.0",
+    "dotenv": "^10.0.0",
+    "ethereum-input-data-decoder": "^0.3.5",
+    "pm2": "^5.1.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.3",
+    "winston": "^3.3.3"
+  }
+}
