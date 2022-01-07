@@ -4,7 +4,7 @@ Trying to check if we can detect if newly created contract are ERC20 using bytec
 
 ## Setup
 
-- Copy the repo : `git clone https://`
+- Copy the repo : `git clone https://github.com/Zwakx/checkERC20.git`
 - Install packages : `npm i`
 - Create a `.env` file
 - Type the following in the `.env`
