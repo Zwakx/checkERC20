@@ -7,7 +7,7 @@ Trying to check if we can detect if newly created contract are ERC20 using bytec
 - Copy the repo : `git clone https://github.com/Zwakx/checkERC20.git`
 - Install packages : `npm i`
 - Create a `.env` file
-- Type the following in the `.env`
+- Type the following in the `.env` and use your entrypoint for the Avax Mainet (testnet is optionnal)
 
 ```bash
 
